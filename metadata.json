@@ -1,0 +1,6 @@
+{
+  "name": "Susamskar Foundation",
+  "description": "A beautifully designed website and portal for Susamskar Foundation, promoting value-based education, youth skill development, and community welfare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
